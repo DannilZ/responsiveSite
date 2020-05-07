@@ -339,6 +339,14 @@ body {
 	padding-top: 35px;
 }
 
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}
+
 
 /* sub list title  */
 
